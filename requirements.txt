@@ -1,0 +1,10 @@
+# Her legger du inn navn på python packages du installerer via pip (Python install packages)
+# https://learnpython.com/blog/python-requirements-file/
+
+# En modul per linje, f.eks:
+# pendulum
+# tkinter
+
+# Dersom du har behov for API-nøkler, eller hemmelige verdier kan du benytte deg av python-dotenv;
+# (Fjern # symbolet)
+# python-dotenv

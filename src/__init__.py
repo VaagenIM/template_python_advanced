@@ -1,0 +1,1 @@
+"""__init__.py kan stå tom, men den sier noe om hvor hoved-koden din ligger."""
