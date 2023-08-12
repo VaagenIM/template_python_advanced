@@ -5,6 +5,5 @@
 # pendulum
 # tkinter
 
-# Dersom du har behov for API-nøkler, eller hemmelige verdier kan du benytte deg av python-dotenv;
-# (Fjern # symbolet)
-# python-dotenv
+# All sensitiv data skal overføres til koden via dotenv.
+python-dotenv

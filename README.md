@@ -11,6 +11,8 @@ Hvordan installerer man?
 pip install -r requirements.txt
 ```
 
+Må man opprette `.env` fil og gi verdier som er for sensitive til å putte direkte i koden?
+
 ## Usage
 Hva gjør man?
 
